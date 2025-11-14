@@ -13,6 +13,4 @@
 
 ![头像](image/头像.jpg)
 
-![Visitor Count](https://profile-counter.glitch.me/guyuemang/count.svg)
-
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=guyuemang.
