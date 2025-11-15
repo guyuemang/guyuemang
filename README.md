@@ -1,16 +1,9 @@
-<div id="title" align=center>
+<img height=200 align="center" src="https://github-widgetbox.vercel.app/api/profile?username=guyuemang&data=followers,repositories,stars,commits&theme=darkmode" />
+<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=guyuemang&theme=dark" />
+<img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=guyuemang&theme=dark&langs_count=8&card_width=200" />
 
-![Modern C++ template][github-sub-title:img]
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guyuemang&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
-
-[![modern cpp](https://img.shields.io/badge/code-Java-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/喜欢-我的世界-yellow) 
-![](https://img.shields.io/badge/性格-孤僻-green) 
-![](https://img.shields.io/badge/爱好-二次元-red)
-
-</div>
-
-![头像](image/头像.jpg)
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=guyuemang.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guyuemang/guyuemang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guyuemang/guyuemang/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guyuemang/guyuemang/output/github-contribution-grid-snake.svg">
+</picture>
